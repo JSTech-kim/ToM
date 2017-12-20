@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ToM</string>
+    <string name="url_login">http://192.168.219.167/hjtest/hjtest.jsp</string>
+    <string name="toast_login_fail">아이디 또는 비밀번호를 확인해주십시오.</string>
+    <string name="toast_login_success">이미 참여중인 방으로 이동합니다.</string>
+    <string name="toast_login_choice">방 생성, 또는 참가합니다.</string>
 </resources>
